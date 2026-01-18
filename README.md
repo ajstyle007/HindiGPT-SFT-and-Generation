@@ -4,9 +4,9 @@ A complete Supervised Fine-Tuning (SFT), controlled text generation, and Gradio-
 
 ### This repository covers:
 
-✅ Supervised Fine-Tuning (SFT) on Hindi Q&A data
-✅ Advanced text generation (Top-K, Top-P, Temperature, Repetition Penalty)
-✅ Interactive Gradio web application for inference
+- ✅ Supervised Fine-Tuning (SFT) on Hindi Q&A data
+- ✅ Advanced text generation (Top-K, Top-P, Temperature, Repetition Penalty)
+- ✅ Interactive Gradio web application for inference
 
 ### 1. Supervised Fine-Tuning (SFT)
 This repository performs Supervised Fine-Tuning (SFT) on a pretrained Hindi GPT model to enable instruction-following and question–answering behavior.
